@@ -1,0 +1,11 @@
+---
+enable: true
+title: "Frequently Asked Questions"
+faq:
+  - question: "Q. How do I apply?"
+    answer: >
+            You can apply by visiting our website and following the step-by-step application process outlined on the "Join Us" page. Simply create an account, fill out the necessary details, and submit your application online.
+  - question: "Q. How do I get a reference?"
+    answer: >
+            To request a reference, please contact our admissions team directly through the "Contact Us" page. They will guide you through the process and provide the necessary forms.
+---
