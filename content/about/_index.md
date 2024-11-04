@@ -10,12 +10,24 @@ sliderImage:
 ---
 ## This Is Our Story.
 
-At StemX, we’re more than just a platform; we’re a movement dedicated to transforming health and wellness. We believe that everyone deserves access to cutting-edge technology that promotes a healthier, happier life. By combining the power of nature with advanced science, we create innovative solutions that are accessible to all.
+At StemX, we are more than just a platform; we are a movement committed to transforming health and wellness for all. We believe in providing access to cutting-edge technology that promotes a healthier, happier life by merging nature's power with advanced science. Founded by industry leaders with offices in Taiwan, Vietnam, and Malaysia, we are expanding globally to deliver high-quality health products and empower individuals to achieve their dreams.
 
-StemX was born from the collaboration of industry leaders, each bringing their unique expertise and vision. With offices in Taiwan, Vietnam, and Malaysia, we’re expanding our reach across the globe, delivering top-tier health products and empowering individuals to achieve their dreams.
+Our mission is to make health and wellness a universal right, envisioning a world where everyone benefits from youth, vitality, and prosperity. Led by our Co-Founder & CEO, Hong Zong, and Chief Scientist, Dr. Chen Rongyu, we are at the forefront of plant stem cell technology, ensuring our patented methods set new standards in the industry.
 
-Our mission is simple yet profound: to make health and wellness a universal right, not a privilege. We envision a world where everyone can enjoy the benefits of youth, vitality, and prosperity. StemX is committed to making this vision a reality, one innovative product at a time.
+At StemX, we create not only innovative products but also opportunities for personal growth. We invite you to join our community, where elegance, excellence, and the pursuit of well-being are valued, as we work together toward a future where health and happiness are within everyone's reach.
 
-Driven by the pioneering spirit of our Co-Founder & CEO, Hong Zong, and the groundbreaking research led by our Chief Scientist, Dr. Chen Rongyu, StemX is at the forefront of plant stem cell technology. Our patented methods ensure that we provide the highest quality products, setting new standards in the health and wellness industry.
+## Vision
+Through technological innovation, empower entrepreneurs and create sustainable business opportunities and social value.
 
-At StemX, we don’t just create products; we create opportunities. We invite you to join us in our mission, to be part of a community that values elegance, excellence, and the endless pursuit of well-being. Together, we can shape a future where health and happiness are within everyone’s reach.
+## Mission
+Ensure health is no longer a privilege for the few but a right for all; create a platform for entrepreneurs to achieve self-fulfillment.
+
+## Core Values
+**Pursuit of Elegance, Happiness, and Excellence**: We strive for elegance and excellence in every aspect of life while bringing happiness to everyone.
+
+**Strong Physical Health**: We focus on your physical health, offering comprehensive support to help you maintain optimal condition.
+
+**Harmonious Mind**: We advocate for emotional and spiritual balance, helping you find inner peace and harmony in life.
+
+**Empowering Opportunities**: We provide opportunities full of potential to help you achieve personal value and career growth.
+
